@@ -1,4 +1,4 @@
 Title,Content
-How to make an Account?,Click Create account
-test2,How to gaming?
-test3,How to make an account?
+How to make an Account?,1. Click "Create a User (On the top of the screen)" 2.Enter Full Name and Email in the textboxes and press "Create User" Button. 3. A successful message will pop up if it worked
+How do I Import a .CSV File?,1. Click "Create a User (On the top of the screen)" 2. Click "Import .CSV" 3. Choose the file you want to import 4. Click "Validate" 5. Click "Confirm"
+How do I Search for Users?,1. Click "Search in AzureAD (On the top of the screen)" 2. Click the drop down menu or search directly on it
