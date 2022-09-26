@@ -2,6 +2,6 @@ Title,Content
 How to make an Account?,1. Click "Create a User (On the top of the screen)" 2.Enter Full Name and Email in the textboxes and press "Create User" Button. 3. A successful message will pop up if it worked
 How do I Import a .CSV File?,1. Click "Create a User (On the top of the screen)" 2. Click "Import .CSV" 3. Choose the file you want to import 4. Click "Validate" 5. Click "Confirm"
 How do I Search for Users?,1. Click "Search in AzureAD (On the top of the screen)" 2. Click the drop down menu or search directly on it
-How do I Make the Program Bigger?, You can't.
+How do I Make the Program Bigger?, You can't unfortunately
 How do I Remove/Edit a person out of the CSV File?, If you get an error account(s) already in domain. Press the edit button that shows up and press CTRL + F and type in their name or email. Then just remove the whole line
 Used Mail = System.Object[]?, Well you have encountered a bugged person. It could be because you searched up a person who does not have a surname in AzureAD. or because there is multiple of the same account. If this happends search after their Email adresses
